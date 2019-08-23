@@ -1,5 +1,5 @@
 # Diabetes-Detection-using-Neural-Network
-Diabetes Mellitus (DM), commonly known as diabetes, is a group of metabolic disorders characterized by high blood sugar levels over a prolonged period. Artificial Intelligence in Medicine papers must refer to real-world medical domains, considered and discussed at the proper depth, from both the technical and the medical points of view.
+Diabetes Mellitus (DM), commonly known as diabetes, is a group of metabolic disorders characterized by high blood sugar levels over a prolonged period. Artificial Intelligence in Medical Science refers to real-world medical domains, considered and discussed at the proper depth, from both the technical and the medical points of view.
 
 Data Science and Machine Learning is helping medical professionals make diagnosis easier by bridging the gap between huge data sets and human knowledge. We can begin to apply Machine L earning techniques for classification in a dataset that describes a population that is under a high risk of the onset of diabetes.
 
